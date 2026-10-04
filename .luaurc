@@ -1,0 +1,11 @@
+{
+	"languageMode": "nonstrict",
+	"globals": [
+		"game", "workspace", "script", "plugin", "shared", "settings",
+		"Instance", "Vector3", "Vector2", "CFrame", "Color3", "UDim2", "UDim", "Enum", "BrickColor",
+		"TweenInfo", "NumberRange", "NumberSequence", "NumberSequenceKeypoint", "ColorSequence",
+		"ColorSequenceKeypoint", "OverlapParams", "RaycastParams", "Random", "Ray", "Region3", "Rect",
+		"PhysicalProperties", "Font", "Faces", "Axes", "DateTime", "Path2DControlPoint",
+		"task", "tick", "time", "elapsedTime", "warn", "typeof", "unpack", "delay", "spawn", "wait"
+	]
+}

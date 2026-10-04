@@ -1,0 +1,10 @@
+build/
+.DS_Store
+*.rbxl.lock
+*.rbxlx.lock
+__pycache__/
+# kontrollbilder: bare oversiktsarkene (_*.png) i git, enkeltbildene lages på nytt ved bygging
+assets/previews/*.png
+!assets/previews/_*.png
+assets/previews_rekvisitter/*.png
+!assets/previews_rekvisitter/_*.png

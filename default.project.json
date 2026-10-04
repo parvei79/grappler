@@ -1,0 +1,14 @@
+{
+  "name": "Grappler",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": { "Shared": { "$path": "src/shared" } },
+    "ServerScriptService": { "Server": { "$path": "src/server" } },
+    "StarterPlayer": {
+      "$properties": { "EnableMouseLockOption": false },
+      "StarterPlayerScripts": { "Klient": { "$path": "src/client" } }
+    },
+    "Workspace": { "$properties": { "StreamingEnabled": false } },
+    "Lighting": { "$properties": { "Technology": { "Enum": 4 }, "GlobalShadows": true, "Outlines": false } }
+  }
+}
